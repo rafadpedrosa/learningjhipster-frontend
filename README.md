@@ -1,0 +1,2 @@
+# learningjhipster-frontend
+learningjhipster-frontend
